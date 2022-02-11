@@ -1,7 +1,6 @@
 public class HelloWorld {
   public static void main(String[] args) {
     System.out.println("Hello, Abhi-----> good afternoon");
-    System.out.println("Hello, hi guys whats up");
-    System.out.println("Hello, good Afternoon");
+    System.out.println("Hello, Happy sunday");
   }
 }
